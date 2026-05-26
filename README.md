@@ -1,5 +1,3 @@
-# README.md
-
 # Automated News Pipeline — Python
 
 ## Overview
