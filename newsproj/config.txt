@@ -1,0 +1,3 @@
+api_key = b36fed9bf02345aabc62c434777af5df
+topic   = technology
+country = us
